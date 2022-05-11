@@ -21,6 +21,9 @@ https://machinelearningmastery.com
 ### Linear Regression
 https://www.youtube.com/watch?v=PaFPbb66DxQ&list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU     StatQuest with Josh Starmer
 
+### Machine Learning
+https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU     Andrew Ng 2018 Stanford University
+
 
 ### Helpful sites
 https://setosa.io/#/      (Visual Explanations)
