@@ -13,4 +13,14 @@ https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D             
 
 
 
+### ML Blogs
+https://machinelearningmastery.com
+
 ## ML Courses
+
+### Linear Regression
+https://www.youtube.com/watch?v=PaFPbb66DxQ&list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU     StatQuest with Josh Starmer
+
+
+### Helpful sites
+https://setosa.io/#/      (Visual Explanations)
